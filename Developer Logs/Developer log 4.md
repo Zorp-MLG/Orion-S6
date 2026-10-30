@@ -22,3 +22,9 @@ summary of how the project looks:
 <img width="649" height="554" alt="image" src="https://github.com/user-attachments/assets/1c7710db-36a9-4be9-917c-1ac976e2d423" />
 <img width="309" height="644" alt="image" src="https://github.com/user-attachments/assets/1cfdbfd8-13a9-4e0b-b4b8-e2ee39902e4c" />
 <img width="680" height="300" alt="image" src="https://github.com/user-attachments/assets/90935bbb-0f30-423f-9c21-659f8d2293a6" />
+
+
+---
+
+
+This is sadly the last devlog:(
