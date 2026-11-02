@@ -1,4 +1,3 @@
-
 # ORION S6
 
 
@@ -30,6 +29,7 @@ This teached me all the parts of hardware, like routing, design, and selection. 
 
 its not the best buts its mine:)
             
+<img width="731" height="385" alt="picture of pcb in 3d render" src="https://github.com/user-attachments/assets/9c8d3f50-93fc-41ac-a3c5-ae3a6f525a57" />
 
 
   # Why i picked stm32g030
