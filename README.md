@@ -1,4 +1,3 @@
-[work in progress]
 
 # ORION S6
 
