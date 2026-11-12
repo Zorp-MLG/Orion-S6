@@ -20,6 +20,12 @@ professional item, which includes "branding".
     SRAM:
        8KB
 
+
+ # What is this
+
+Its an microcontroller using the stm32g030. The chip is made by STM32, I made the PCB around it.
+
+
 # Why i made this
 
 i made this to make myself better overall in tech. I took a break from tech for a couple of days because of school, so i wanted to freshen up! 
@@ -57,8 +63,17 @@ finish!
 
 
 
-  
-	
-
-
-
+  # Example of basic firmware to use on the board
+```
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);  
+  delay(1000);                      
+  digitalWrite(LED_BUILTIN, LOW);   
+  delay(1000);                      
+}
+```
+**Credits:https://docs.arduino.cc/built-in-examples/basics/Blink/**
+**DISCLAIMER: dont use if yours doesnt allow STM32duino type of code. Otherwise use bare metal code**
